@@ -815,6 +815,12 @@
             "icon": "package/com.unity.modules.video"
           },
           {
+            "name": "Required by Wind Module",
+            "scenes": [],
+            "dependencyType": 2,
+            "icon": "package/com.unity.modules.wind"
+          },
+          {
             "name": "Required by XR Module",
             "scenes": [],
             "dependencyType": 2,
@@ -1301,6 +1307,12 @@
             "icon": "package/com.unity.modules.video"
           },
           {
+            "name": "Required by Wind Module",
+            "scenes": [],
+            "dependencyType": 2,
+            "icon": "package/com.unity.modules.wind"
+          },
+          {
             "name": "Required by XR Module",
             "scenes": [],
             "dependencyType": 2,
@@ -1569,6 +1581,19 @@
           {
             "name": "VideoPlayer",
             "scenes": [],
+            "dependencyType": 0,
+            "icon": null
+          }
+        ]
+      },
+      {
+        "name": "Wind",
+        "dependencies": [
+          {
+            "name": "WindZone",
+            "scenes": [
+              "Assets/Scenes/Forest.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           }
