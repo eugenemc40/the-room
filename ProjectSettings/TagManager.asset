@@ -13,6 +13,12 @@ TagManager:
   - Red
   - Blue
   - Green
+  - Happy
+  - Sad
+  - Angry
+  - Shock
+  - Sleepy
+  - Afraid
   layers:
   - Default
   - TransparentFX
