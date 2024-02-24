@@ -7829,7 +7829,7 @@ GameObject:
   - component: {fileID: 6500727364809111865}
   - component: {fileID: 600735901883880707}
   m_Layer: 0
-  m_Name: DoorFrame_Apt_03
+  m_Name: Kitchen Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7848,7 +7848,7 @@ GameObject:
   - component: {fileID: 6500727365806987737}
   - component: {fileID: 600735902864602595}
   m_Layer: 0
-  m_Name: DoorFrame_Apt_03 (2)
+  m_Name: Supermarket Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7867,7 +7867,7 @@ GameObject:
   - component: {fileID: 6500727366134943654}
   - component: {fileID: 600735902136083356}
   m_Layer: 0
-  m_Name: DoorFrame_Apt_03 (1)
+  m_Name: Hub Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30356,7 +30356,7 @@ Transform:
   m_GameObject: {fileID: 2683195717297701106}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0425447, y: 0.93, z: -2.55}
+  m_LocalPosition: {x: 1.0425447, y: 0.93, z: -0.17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -84676,7 +84676,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 8
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -84730,7 +84730,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

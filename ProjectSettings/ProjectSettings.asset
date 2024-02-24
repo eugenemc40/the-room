@@ -197,8 +197,6 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: -8196854396901781169, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
-  - {fileID: -8469037840533848286, guid: 848a3f429f52030468e5821acfe5b067, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -219,7 +217,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BeardedNinjaGames.VRInteractionFramework
+    Android: com.DefaultCompany.theroom
     Standalone: com.Bearded-Ninja-Games.VR-Interaction-Framework
   buildNumber:
     Standalone: 0
@@ -915,7 +913,7 @@ PlayerSettings:
   cloudProjectId: 96ee1afe-fcd8-45a5-b8f9-5e674c03383c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: the room
   organizationId: ugemc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1

@@ -69,6 +69,13 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_RenderPipeline_Universal_Shade
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_RenderPipelines_Core_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_RenderPipelines_Universal_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_TextMeshPro_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_VisualScripting_Core_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_VisualScripting_Flow_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_ARCore_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_ARFoundation_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_ARFoundation_InternalUtils_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_ARFoundation_VisualScripting_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_ARSubsystems_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_CoreUtils_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_Interaction_Toolkit_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_Interaction_Toolkit_Samples_DeviceSimulator_CodeGenModule;
@@ -84,7 +91,7 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_RuntimeDebu
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g___Generated_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_mscorlib_CodeGenModule;
 IL2CPP_EXTERN_C const Il2CppCodeGenModule* g_CodeGenModules[];
-const Il2CppCodeGenModule* g_CodeGenModules[63] = 
+const Il2CppCodeGenModule* g_CodeGenModules[70] = 
 {
 	(&g_AssemblyU2DCSharp_CodeGenModule),
 	(&g_BNGHandPoseID_CodeGenModule),
@@ -135,6 +142,13 @@ const Il2CppCodeGenModule* g_CodeGenModules[63] =
 	(&g_Unity_RenderPipelines_Core_Runtime_CodeGenModule),
 	(&g_Unity_RenderPipelines_Universal_Runtime_CodeGenModule),
 	(&g_Unity_TextMeshPro_CodeGenModule),
+	(&g_Unity_VisualScripting_Core_CodeGenModule),
+	(&g_Unity_VisualScripting_Flow_CodeGenModule),
+	(&g_Unity_XR_ARCore_CodeGenModule),
+	(&g_Unity_XR_ARFoundation_CodeGenModule),
+	(&g_Unity_XR_ARFoundation_InternalUtils_CodeGenModule),
+	(&g_Unity_XR_ARFoundation_VisualScripting_CodeGenModule),
+	(&g_Unity_XR_ARSubsystems_CodeGenModule),
 	(&g_Unity_XR_CoreUtils_CodeGenModule),
 	(&g_Unity_XR_Interaction_Toolkit_CodeGenModule),
 	(&g_Unity_XR_Interaction_Toolkit_Samples_DeviceSimulator_CodeGenModule),
@@ -153,22 +167,22 @@ const Il2CppCodeGenModule* g_CodeGenModules[63] =
 IL2CPP_EXTERN_C const Il2CppCodeRegistration g_CodeRegistration;
 const Il2CppCodeRegistration g_CodeRegistration = 
 {
-	7,
+	15,
 	g_ReversePInvokeWrapperPointers,
-	59890,
+	68075,
 	g_Il2CppGenericMethodPointers,
 	g_Il2CppGenericAdjustorThunks,
-	12509,
+	14143,
 	g_Il2CppInvokerPointers,
-	2428,
+	2733,
 	g_UnresolvedVirtualMethodPointers,
 	g_UnresolvedInstanceMethodPointers,
 	g_UnresolvedStaticMethodPointers,
-	658,
+	714,
 	g_Il2CppInteropData,
 	0,
 	NULL,
-	63,
+	70,
 	g_CodeGenModules,
 };
 IL2CPP_EXTERN_C_CONST Il2CppMetadataRegistration g_MetadataRegistration;

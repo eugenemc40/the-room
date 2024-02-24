@@ -25,6 +25,13 @@ Library: C:\Users\uge53\Games\the room\Temp\BurstOutput\tempburstlibs\armeabi-v7
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.VisualScripting.Core;
+--assembly-defines=Unity.VisualScripting.Flow;
+--assembly-defines=Unity.XR.ARCore;
+--assembly-defines=Unity.XR.ARFoundation;
+--assembly-defines=Unity.XR.ARFoundation.InternalUtils;
+--assembly-defines=Unity.XR.ARFoundation.VisualScripting;
+--assembly-defines=Unity.XR.ARSubsystems;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;
@@ -72,6 +79,13 @@ Library: C:\Users\uge53\Games\the room\Temp\BurstOutput\tempburstlibs\armeabi-v7
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.VisualScripting.Core;
+--assembly-defines=Unity.VisualScripting.Flow;
+--assembly-defines=Unity.XR.ARCore;
+--assembly-defines=Unity.XR.ARFoundation;
+--assembly-defines=Unity.XR.ARFoundation.InternalUtils;
+--assembly-defines=Unity.XR.ARFoundation.VisualScripting;
+--assembly-defines=Unity.XR.ARSubsystems;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator;
