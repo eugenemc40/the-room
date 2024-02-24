@@ -4,6 +4,8 @@ public class GreenMatch : MonoBehaviour
 {
     public AudioClip sound;
     private AudioSource playerAudio;
+    public GameObject setActive1;
+
     private void Start()
     {
         playerAudio = GetComponent<AudioSource>();
@@ -15,12 +17,22 @@ public class GreenMatch : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Green"))
         {
+            setActive1.SetActive(true);
             playSound();
         }
 
     }
 
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("Green"))
+        {
 
+            setActive1.SetActive(false);
+
+        }
+
+    }
 
 
     private void playSound()
