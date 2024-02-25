@@ -1144,14 +1144,6 @@
             "icon": null
           },
           {
-            "name": "CharacterJoint",
-            "scenes": [
-              "Assets/Scenes/Planet.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
             "name": "Collider",
             "scenes": [],
             "dependencyType": 1,
@@ -1279,7 +1271,9 @@
           },
           {
             "name": "SpringJoint",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Kitchen.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
