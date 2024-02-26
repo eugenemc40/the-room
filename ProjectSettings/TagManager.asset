@@ -24,10 +24,10 @@ TagManager:
   - Cola
   - FizzyOrange
   - Crisps
-  - Can
   - Cereal
   - OliveOil
   - OrangeJuice
+  - Soup
   layers:
   - Default
   - TransparentFX
