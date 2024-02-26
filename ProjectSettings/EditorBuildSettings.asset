@@ -41,9 +41,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Supermarket.unity
     guid: 83bf1dd1e7b25a5468a0f32e09da1211
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Kitchen.unity
     guid: 031db4af4e4f52d439b80d816ffe051e
+  - enabled: 1
+    path: Assets/Scenes/Kitchen Level 1.unity
+    guid: 02655bf5af7355d488204f4308d9102f
   - enabled: 1
     path: Assets/Scenes/Kitchen Level 2.unity
     guid: 6300c03678eb4974884e12f53e8b8afe

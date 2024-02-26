@@ -3,7 +3,31 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Sleepy
+  - Sad
+  - Yellow
+  - Shock
+  - Blue
+  - Green
+  - Red
+  - Angry
+  - Afraid
+  - Happy
+  - Anchor
+  - Bat
+  - Milk
+  - Sausage
+  - Bread
+  - Apple
+  - Tomato
+  - Cola
+  - FizzyOrange
+  - Crisps
+  - Can
+  - Cereal
+  - OliveOil
+  - OrangeJuice
   layers:
   - Default
   - TransparentFX
