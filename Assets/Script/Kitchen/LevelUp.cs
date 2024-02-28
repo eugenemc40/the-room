@@ -13,9 +13,9 @@ public class LevelUp : MonoBehaviour
     public GameObject update9;
     public GameObject update10;
     public GameObject update11;
-    public GameObject update12;
     public GameObject toActivate;
     public GameObject toDeactivate;
+
 
     // Start is called before the first frame update
     void Start()
@@ -34,7 +34,7 @@ public class LevelUp : MonoBehaviour
     public void toUpdate()
     {
         if (update1.activeSelf && update2.activeSelf && update3.activeSelf && update4.activeSelf && update5.activeSelf && update6.activeSelf &&
-            update7.activeSelf && update8.activeSelf && update9.activeSelf && update10.activeSelf && update11.activeSelf && update12.activeSelf)
+            update7.activeSelf && update8.activeSelf && update9.activeSelf && update10.activeSelf && update11.activeSelf)
         {
             toActivate.SetActive(true);
             toDeactivate.SetActive(false);
