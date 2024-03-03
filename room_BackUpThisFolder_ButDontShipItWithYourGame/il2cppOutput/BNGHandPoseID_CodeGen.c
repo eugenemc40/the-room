@@ -23,9 +23,9 @@ static Il2CppMethodPointer s_methodPointers[3] =
 };
 static const int32_t s_InvokerIndices[3] = 
 {
-	14125,
-	9041,
-	9041,
+	14134,
+	9049,
+	9049,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_BNGHandPoseID_CodeGenModule;
 const Il2CppCodeGenModule g_BNGHandPoseID_CodeGenModule = 

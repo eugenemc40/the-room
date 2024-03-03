@@ -335,7 +335,6 @@ struct IndexOutOfRangeException_t7ECB35264FB6CA8FAA516BD958F4B2ADC78E8A82;
 struct InspectorNameAttribute_t30287A92B113253B9E22924DD6FC4C7007545497;
 struct InspectorOrderAttribute_tF2457AD044166E81A7870CABCD93C76556275675;
 struct InternalThread_tF40B7BFCBD60C82BD8475A22FF5186CA10293687;
-struct InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB;
 struct InvokableCall_t8481C00D3B38904F5B77ACEA2ABAE6AC119D4122;
 struct InvokableCallList_t309E1C8C7CE885A0D2F98C84CEA77A8935688382;
 struct Light2DBase_t21E41B15B3A532090B53439B4E99AB1207263C26;
@@ -524,7 +523,6 @@ IL2CPP_EXTERN_C RuntimeClass* Int32U5BU5D_t19C97395396A72ECAF310612F0760F1650603
 IL2CPP_EXTERN_C RuntimeClass* Int32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Int64_t092CFB123BE63C28ACDAF65C68F21A526050DBA3_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IntPtr_t_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* InvokableCallList_t309E1C8C7CE885A0D2F98C84CEA77A8935688382_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* InvokableCall_t8481C00D3B38904F5B77ACEA2ABAE6AC119D4122_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* KeyValuePair_2U5BU5D_tC69B81DAE46C98B645B7DB846E505BD225C1459A_il2cpp_TypeInfo_var;
@@ -632,7 +630,6 @@ IL2CPP_EXTERN_C String_t* _stringLiteral081CE087629BFF9712C1BF53C8C969596C9E2923
 IL2CPP_EXTERN_C String_t* _stringLiteral098A172DEA459360162609211F3572251217DFE4;
 IL2CPP_EXTERN_C String_t* _stringLiteral09B11B6CC411D8B9FFB75EAAE9A35B2AF248CE40;
 IL2CPP_EXTERN_C String_t* _stringLiteral1168E92C164109D6220480DEDA987085B2A21155;
-IL2CPP_EXTERN_C String_t* _stringLiteral12BA625C319C72AEE794CEFD3E7AAFB459EE3B02;
 IL2CPP_EXTERN_C String_t* _stringLiteral14E9FD8036E5922C5779C051F0DEDF7C14196406;
 IL2CPP_EXTERN_C String_t* _stringLiteral186258386649F24981BCE944E79DA1E386EF6E28;
 IL2CPP_EXTERN_C String_t* _stringLiteral1C09770F25C8580FC7F6623067ACD12EBA570614;
@@ -668,7 +665,6 @@ IL2CPP_EXTERN_C String_t* _stringLiteral6BF7D801EA53382ABE312338BD9D0129DB465E73
 IL2CPP_EXTERN_C String_t* _stringLiteral6C379854BE64F495042DF2C26D73DBF30568882D;
 IL2CPP_EXTERN_C String_t* _stringLiteral6C5C0435D770C34838B418825A7DF4290867564D;
 IL2CPP_EXTERN_C String_t* _stringLiteral6DD19C8ED6DBF87C907931E9ED1B787A690E2AAF;
-IL2CPP_EXTERN_C String_t* _stringLiteral707373740C0BF094D64D3D64AE661ED4F8E86A31;
 IL2CPP_EXTERN_C String_t* _stringLiteral713F2758985927695E3D42864BCB92B9BF0A91FE;
 IL2CPP_EXTERN_C String_t* _stringLiteral74598659BAFF7188F763F6357285466DAF366693;
 IL2CPP_EXTERN_C String_t* _stringLiteral758733BDBED83CBFF4F635AC26CA92AAE477F75D;
@@ -770,8 +766,6 @@ IL2CPP_EXTERN_C const RuntimeMethod* ExpressionEvaluator_Evaluate_TisUInt64_t8F1
 IL2CPP_EXTERN_C const RuntimeMethod* Expression_Evaluate_TisDouble_tE150EF3D1D43DEE85D533810AB4C742307EEDE5F_m078E1EC84AFDC45614AC23E12723A0B785941D40_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Expression_Evaluate_TisInt64_t092CFB123BE63C28ACDAF65C68F21A526050DBA3_m838397FA34A03D1C68D150CC95FD210252FEC377_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Expression_Evaluate_TisUInt64_t8F12534CC8FC4B5860F2A2CD1EE79D322E7A41AF_m58D75192AF2281079E2FDE4034707E9883147B2C_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* HashCode_Combine_TisString_t_TisAssemblyVersion_t31C60882819EE2BB15D537DFE561E74B5261844B_TisString_t_TisString_t_m571C588CA0D73DCA2918FEB3A8187AA826667A3B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* HashCode_Combine_TisUInt16_tF4C148C876015C212FD72652D0B6ED8CC247A455_TisUInt16_tF4C148C876015C212FD72652D0B6ED8CC247A455_TisUInt16_tF4C148C876015C212FD72652D0B6ED8CC247A455_TisUInt16_tF4C148C876015C212FD72652D0B6ED8CC247A455_m458B3E4189CBB9FCDAEF92BAC01009E6221B71F5_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* KeyValuePair_2__ctor_mAB9B11258369847D02D8A4600F3F4518BE09B822_RuntimeMethod_var;
@@ -3756,14 +3750,6 @@ struct BuiltinRenderTextureType_t3D56813CAC7C6E4AC3B438039BD1CE7E62FE7C4E
 {
 	int32_t ___value__;
 };
-struct BuiltinShaderDefine_t2363E87FFF1C47CA077C32FC7F64B79345351E37 
-{
-	int32_t ___value__;
-};
-struct CameraLateLatchMatrixType_tEC432609B3A5A6C7CD61B425305FD71CA265BE9D 
-{
-	int32_t ___value__;
-};
 struct ColorUsageAttribute_t3386946122DAB4AE3AD314081B423B40ADFDFFC4  : public PropertyAttribute_t5E0CB5A6CDA6E24CBD4FF26DE3B0C29D8BB54BF0
 {
 	bool ___showAlpha;
@@ -3774,10 +3760,6 @@ struct ColorUsageAttribute_t3386946122DAB4AE3AD314081B423B40ADFDFFC4  : public P
 	float ___maxExposureValue;
 };
 struct ColorWriteMask_tD91EE58294D13F5BA3716FC0ED700F0ED671CF08 
-{
-	int32_t ___value__;
-};
-struct CommandBufferExecutionFlags_t7BFA25B0350A84E1C0B34B2C577B22FF921410FC 
 {
 	int32_t ___value__;
 };
@@ -3794,10 +3776,6 @@ struct ComputeBufferMode_t5D4638785EF410703DB43EF7FF7A56A8DF86CA88
 	int32_t ___value__;
 };
 struct ComputeBufferType_tDEEE8D455B0CCF8A6CFF36F0A0D9D27E3662919E 
-{
-	int32_t ___value__;
-};
-struct ComputeQueueType_tE51DE975A4C73ADD975651F3811BA03FDF226288 
 {
 	int32_t ___value__;
 };
@@ -3980,19 +3958,11 @@ struct FoveatedRenderingCaps_tBC8C9BB9100AE3EE12492E5C56B21839B84373E5
 {
 	int32_t ___value__;
 };
-struct FoveatedRenderingMode_tE5B4BD8B909179B3E0AD94A6936DB33408C5C8CF 
-{
-	int32_t ___value__;
-};
 struct GraphicsBuffer_t91FACD3CD78588C25C361C453D1A2FE055EC4AF1  : public RuntimeObject
 {
 	intptr_t ___m_Ptr;
 };
 struct GraphicsDeviceType_t65150C9055D1BC1E377E894972629BF22BA2CBF5 
-{
-	int32_t ___value__;
-};
-struct GraphicsFenceType_t8C3F229DC2BE62FA78724BA3D35FFCB3A64F7E0A 
 {
 	int32_t ___value__;
 };
@@ -4037,10 +4007,6 @@ struct Int32Enum_tCBAC8BA2BFF3A845FA599F303093BBBA374B6F0C
 	int32_t ___value__;
 };
 struct LeakCategory_tE021F3E55FD2F61A7026FDC5A9069E1212A3B3F4 
-{
-	int32_t ___value__;
-};
-struct LightProbeUsage_tC6292C7B7CBA0E5AA2A56F40D71F58A7E06C2948 
 {
 	int32_t ___value__;
 };
@@ -4100,10 +4066,6 @@ struct ObjectDispatcher_tEAB1C719841725D9587A7F17646D5D467D498D69  : public Runt
 	intptr_t ___m_Ptr;
 };
 struct OpaqueSortMode_tBF053A349A61D37C9D45A1DBC339259F20E98E83 
-{
-	int32_t ___value__;
-};
-struct OpenGLESVersion_t2D2FE5B0C7D821A02747EC3D478240D580C6D15C 
 {
 	int32_t ___value__;
 };
@@ -4195,10 +4157,6 @@ struct ProfilerRecorderOptions_t6FDB68D033AC9A5D8A8AF700E049EDA8DF6C9A12
 {
 	int32_t ___value__;
 };
-struct RTClearFlags_t127E0A4F62D0A19D256CBCB7AB0E7A774A96C24F 
-{
-	int32_t ___value__;
-};
 struct RangeAttribute_t8765B7FFCE8F675585C966D7E9FC8FE555D84557  : public PropertyAttribute_t5E0CB5A6CDA6E24CBD4FF26DE3B0C29D8BB54BF0
 {
 	float ___min;
@@ -4208,14 +4166,6 @@ struct Recorder_t0A14385FB0F5829CAAC1E16F88B095769D648C90  : public RuntimeObjec
 {
 	ProfilerRecorder_t363D18B531351FF6D7A09072564EB5D8FC60E613 ___m_RecorderCPU;
 	ProfilerRecorder_t363D18B531351FF6D7A09072564EB5D8FC60E613 ___m_RecorderGPU;
-};
-struct ReflectionProbeMode_t12F6F00CFD705CCF8E7B74D71E47AEA99FF9C211 
-{
-	int32_t ___value__;
-};
-struct ReflectionProbeRefreshMode_tB0E2E262AF4202160FD065066BB6575EAF8911FC 
-{
-	int32_t ___value__;
 };
 struct RenderBuffer_tBE7B342979EF2FA36E24C8A7F9242212F5B89551 
 {
@@ -4230,10 +4180,6 @@ struct RenderBufferStoreAction_t87683F22C09634E24A574F21F42037C953A2C8B7
 {
 	int32_t ___value__;
 };
-struct RenderTargetFlags_t9E69AC683D7B7687AD7BC1200858C67D0671CC59 
-{
-	int32_t ___value__;
-};
 struct RenderTextureCreationFlags_t1C01993691E5BA956575134696509089FE852F50 
 {
 	int32_t ___value__;
@@ -4243,10 +4189,6 @@ struct RenderTextureFormat_tB6F1ED5040395B46880CE00312D2FDDBF9EEB40F
 	int32_t ___value__;
 };
 struct RenderTextureMemoryless_tE3B7F3AE353C3E9ACF86076376EB862131D19A69 
-{
-	int32_t ___value__;
-};
-struct RenderTextureSubElement_t7FCDF6E745D03D1410D18929AF26E239F61A6D78 
 {
 	int32_t ___value__;
 };
@@ -4286,10 +4228,6 @@ struct ShadowCastingMode_tF30806698B37CF120A1A506BD7549EAF308E7C6D
 	int32_t ___value__;
 };
 struct ShadowSamplingMode_t8BE740C4258CFEDDBAC01FDC0438D8EE3F776BA8 
-{
-	int32_t ___value__;
-};
-struct SinglePassStereoMode_tEE957F669AE2B90CB18A2E1277AB6FB074E75956 
 {
 	int32_t ___value__;
 };
@@ -4369,10 +4307,6 @@ struct StreamingContextStates_t5EE358E619B251608A9327618C7BFE8638FC33C1
 	int32_t ___value__;
 };
 struct SynchronisationStage_t47973C71BC0CE426F61ACDF6921F9E4FD7E7301B 
-{
-	int32_t ___value__;
-};
-struct SynchronisationStageFlags_t4A123BC710940A342231A5ACB48EA55E44F2B088 
 {
 	int32_t ___value__;
 };
@@ -4636,12 +4570,6 @@ struct FileStream_t07C7222EE10B75F352B89B76E60820160FF10AD8  : public Stream_tF8
 };
 struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
 {
-};
-struct GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB 
-{
-	intptr_t ___m_Ptr;
-	int32_t ___m_Version;
-	int32_t ___m_FenceType;
 };
 struct InspectorOrderAttribute_tF2457AD044166E81A7870CABCD93C76556275675  : public PropertyAttribute_t5E0CB5A6CDA6E24CBD4FF26DE3B0C29D8BB54BF0
 {
@@ -4999,9 +4927,6 @@ struct Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA  : public Component_t
 {
 };
 struct IndexOutOfRangeException_t7ECB35264FB6CA8FAA516BD958F4B2ADC78E8A82  : public SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295
-{
-};
-struct InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB  : public SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295
 {
 };
 struct ManualResetEvent_t63959486AA41A113A4353D0BF4A68E77EBA0A158  : public EventWaitHandle_t18F2EB0161747B0646A9A406015A61A214A1EB7E
@@ -7585,13 +7510,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Int32_GetHashCode_m253D60FF7527A483E9
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t RenderTargetIdentifier_GetHashCode_m255E1EFD7BFC22B1B4464F9EF3346386DA328B86 (RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RenderTargetIdentifier_Equals_m859988BBC3D58D5C2AEA18C2CCCAF7009A5499D9 (RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B* __this, RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___0_rhs, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RenderTargetIdentifier_Equals_m07E36F91E8966A0E3882EF168F1AE3656BE48E9A (RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B* __this, RuntimeObject* ___0_obj, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_get_supportsGraphicsFence_m4B987EDD4F7DB64E4E4C2F6F3533577237EEC908 (const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172 (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE (intptr_t ___0_fencePtr, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GraphicsFence_IsFencePending_mA9B88D1202C7D3D92E6E18CBD5D951668F7A4C59 (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InvalidOperationException__ctor_mE4CB6F4712AB6D99A2358FBAE2E052B3EE976162 (InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB* __this, String_t* ___0_message, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int64_t BitConverter_DoubleToInt64Bits_m4F42741818550F9956B5FBAF88C051F4DE5B0AE6_inline (double ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline (float ___0_value, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* Vector3_ToString_mA8DA39B6324392BB93203A4D4CB85AF87231CB62_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, String_t* ___0_format, RuntimeObject* ___1_formatProvider, const RuntimeMethod* method) ;
@@ -10706,6 +10624,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequireComponent__ctor_mB1C4FD7EA20C0ADA
 		Type_t* L_0 = ___0_requiredComponent;
 		__this->___m_Type0 = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Type0), (void*)L_0);
+		return;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RequireComponent__ctor_mB589C6197411F3187E219DC3370165E5B6EBE35E (RequireComponent_t8DDD209443A8519033BD1B38803A47077D2A1138* __this, Type_t* ___0_requiredComponent, Type_t* ___1_requiredComponent2, const RuntimeMethod* method) 
+{
+	{
+		Attribute__ctor_m79ED1BF1EE36D1E417BA89A0D9F91F8AAD8D19E2(__this, NULL);
+		Type_t* L_0 = ___0_requiredComponent;
+		__this->___m_Type0 = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Type0), (void*)L_0);
+		Type_t* L_1 = ___1_requiredComponent2;
+		__this->___m_Type1 = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Type1), (void*)L_1);
 		return;
 	}
 }
@@ -24424,6 +24355,29 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A
 		return L_0;
 	}
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_TransformDirection_m9C397BCD37FEFEDDE923D38FDCBC9DDC517AE5C3 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		float L_0 = ___0_x;
+		float L_1 = ___1_y;
+		float L_2 = ___2_z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
+		memset((&L_3), 0, sizeof(L_3));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_3), L_0, L_1, L_2, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
+		L_4 = Transform_TransformDirection_m9BE1261DF2D48B7A4A27D31EE24D2D97F89E7757(__this, L_3, NULL);
+		V_0 = L_4;
+		goto IL_0012;
+	}
+
+IL_0012:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = V_0;
+		return L_5;
+	}
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_InverseTransformDirection_m69C077B881A98B08C7F231EFC49429C906FBC575 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_direction, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -36282,406 +36236,6 @@ IL_000f:
 		bool L_2 = V_0;
 		return L_2;
 	}
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t GraphicsFence_TranslateSynchronizationStageToFlags_m1B9BAE782BB4DE4C65FD81566C75CB284760113E (int32_t ___0_s, const RuntimeMethod* method) 
-{
-	int32_t V_0 = 0;
-	int32_t G_B3_0 = 0;
-	{
-		int32_t L_0 = ___0_s;
-		if (!L_0)
-		{
-			goto IL_0007;
-		}
-	}
-	{
-		G_B3_0 = 2;
-		goto IL_0008;
-	}
-
-IL_0007:
-	{
-		G_B3_0 = 1;
-	}
-
-IL_0008:
-	{
-		V_0 = G_B3_0;
-		goto IL_000b;
-	}
-
-IL_000b:
-	{
-		int32_t L_1 = V_0;
-		return L_1;
-	}
-}
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) 
-{
-	bool V_0 = false;
-	bool V_1 = false;
-	{
-		intptr_t L_0 = __this->___m_Ptr;
-		bool L_1;
-		L_1 = IntPtr_op_Equality_m7D9CDCDE9DC2A0C2C614633F4921E90187FAB271(L_0, 0, NULL);
-		V_0 = L_1;
-		bool L_2 = V_0;
-		if (!L_2)
-		{
-			goto IL_0039;
-		}
-	}
-	{
-		bool L_3;
-		L_3 = SystemInfo_get_supportsGraphicsFence_m4B987EDD4F7DB64E4E4C2F6F3533577237EEC908(NULL);
-		V_1 = L_3;
-		bool L_4 = V_1;
-		if (!L_4)
-		{
-			goto IL_002b;
-		}
-	}
-	{
-		NullReferenceException_tBDE63A6D24569B964908408389070C6A9F5005BB* L_5 = (NullReferenceException_tBDE63A6D24569B964908408389070C6A9F5005BB*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NullReferenceException_tBDE63A6D24569B964908408389070C6A9F5005BB_il2cpp_TypeInfo_var)));
-		NullReferenceException__ctor_mA41317A57F5C1C0E3F59C7EB25ABD484564B23D4(L_5, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral707373740C0BF094D64D3D64AE661ED4F8E86A31)), NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_5, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D_RuntimeMethod_var)));
-	}
-
-IL_002b:
-	{
-		int32_t L_6;
-		L_6 = GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172(__this, NULL);
-		__this->___m_Version = L_6;
-		goto IL_004a;
-	}
-
-IL_0039:
-	{
-		intptr_t L_7 = __this->___m_Ptr;
-		int32_t L_8;
-		L_8 = GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE(L_7, NULL);
-		__this->___m_Version = L_8;
-	}
-
-IL_004a:
-	{
-		return;
-	}
-}
-IL2CPP_EXTERN_C  void GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB*>(__this + _offset);
-	GraphicsFence_InitPostAllocation_mCC33F9D6D9EBB7320DB5C6D820E6F956A8DAD42D(_thisAdjusted, method);
-}
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GraphicsFence_IsFencePending_mA9B88D1202C7D3D92E6E18CBD5D951668F7A4C59 (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) 
-{
-	bool V_0 = false;
-	bool V_1 = false;
-	{
-		intptr_t L_0 = __this->___m_Ptr;
-		bool L_1;
-		L_1 = IntPtr_op_Equality_m7D9CDCDE9DC2A0C2C614633F4921E90187FAB271(L_0, 0, NULL);
-		V_0 = L_1;
-		bool L_2 = V_0;
-		if (!L_2)
-		{
-			goto IL_0019;
-		}
-	}
-	{
-		V_1 = (bool)0;
-		goto IL_002f;
-	}
-
-IL_0019:
-	{
-		int32_t L_3 = __this->___m_Version;
-		intptr_t L_4 = __this->___m_Ptr;
-		int32_t L_5;
-		L_5 = GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE(L_4, NULL);
-		V_1 = (bool)((((int32_t)L_3) == ((int32_t)L_5))? 1 : 0);
-		goto IL_002f;
-	}
-
-IL_002f:
-	{
-		bool L_6 = V_1;
-		return L_6;
-	}
-}
-IL2CPP_EXTERN_C  bool GraphicsFence_IsFencePending_mA9B88D1202C7D3D92E6E18CBD5D951668F7A4C59_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB*>(__this + _offset);
-	bool _returnValue;
-	_returnValue = GraphicsFence_IsFencePending_mA9B88D1202C7D3D92E6E18CBD5D951668F7A4C59(_thisAdjusted, method);
-	return _returnValue;
-}
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) 
-{
-	bool V_0 = false;
-	int32_t G_B4_0 = 0;
-	int32_t G_B6_0 = 0;
-	{
-		int32_t L_0 = __this->___m_Version;
-		if (!L_0)
-		{
-			goto IL_0023;
-		}
-	}
-	{
-		bool L_1;
-		L_1 = SystemInfo_get_supportsGraphicsFence_m4B987EDD4F7DB64E4E4C2F6F3533577237EEC908(NULL);
-		if (!L_1)
-		{
-			goto IL_0020;
-		}
-	}
-	{
-		int32_t L_2 = __this->___m_Version;
-		int32_t L_3;
-		L_3 = GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172(__this, NULL);
-		G_B4_0 = ((((int32_t)L_2) == ((int32_t)L_3))? 1 : 0);
-		goto IL_0021;
-	}
-
-IL_0020:
-	{
-		G_B4_0 = 0;
-	}
-
-IL_0021:
-	{
-		G_B6_0 = G_B4_0;
-		goto IL_0024;
-	}
-
-IL_0023:
-	{
-		G_B6_0 = 1;
-	}
-
-IL_0024:
-	{
-		V_0 = (bool)G_B6_0;
-		bool L_4 = V_0;
-		if (!L_4)
-		{
-			goto IL_0033;
-		}
-	}
-	{
-		InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB* L_5 = (InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&InvalidOperationException_t5DDE4D49B7405FAAB1E4576F4715A42A3FAD4BAB_il2cpp_TypeInfo_var)));
-		InvalidOperationException__ctor_mE4CB6F4712AB6D99A2358FBAE2E052B3EE976162(L_5, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral12BA625C319C72AEE794CEFD3E7AAFB459EE3B02)), NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_5, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E_RuntimeMethod_var)));
-	}
-
-IL_0033:
-	{
-		return;
-	}
-}
-IL2CPP_EXTERN_C  void GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB*>(__this + _offset);
-	GraphicsFence_Validate_mE09A4DB729307FA7D8ADD9BD2BA1248EF503096E(_thisAdjusted, method);
-}
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172 (GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* __this, const RuntimeMethod* method) 
-{
-	int32_t V_0 = 0;
-	{
-		V_0 = (-1);
-		goto IL_0005;
-	}
-
-IL_0005:
-	{
-		int32_t L_0 = V_0;
-		return L_0;
-	}
-}
-IL2CPP_EXTERN_C  int32_t GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<GraphicsFence_t199180163AEDE0C1BE868F8E1314A47610B1FABB*>(__this + _offset);
-	int32_t _returnValue;
-	_returnValue = GraphicsFence_GetPlatformNotSupportedVersion_m171F5A4E7DA90130C4D3ABFFEED4C0680D0A8172(_thisAdjusted, method);
-	return _returnValue;
-}
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE (intptr_t ___0_fencePtr, const RuntimeMethod* method) 
-{
-	typedef int32_t (*GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE_ftn) (intptr_t);
-	static GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE_ftn _il2cpp_icall_func;
-	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GraphicsFence_GetVersionNumber_m1C2AA2F41B942C675174A8809962BAFA3FEC9BDE_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rendering.GraphicsFence::GetVersionNumber(System.IntPtr)");
-	int32_t icallRetVal = _il2cpp_icall_func(___0_fencePtr);
-	return icallRetVal;
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
