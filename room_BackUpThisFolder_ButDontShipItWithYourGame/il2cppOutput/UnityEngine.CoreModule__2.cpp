@@ -6846,6 +6846,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_SupportsComputeShaders_m2B097
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_SupportsRenderTargetArrayIndexFromVertexShader_m69BEE89E786DF342C70F241178B464EEE4BBD032 (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_SupportsInstancing_m5E336034209CC431B04E64203BEF144E149DD9BB (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_SupportedRenderTargetCount_mEBF491036B3705A1C8745DF7C6A3AE1797086B0C (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_SupportsMultisampledTextures_mE3CB9C46E17EBC8F683AB8FD217B4ABF40D21EAF (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_SupportsMultisampleAutoResolve_m42DB9F868306019B01218F5238E3C871F4692BD0 (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_UsesReversedZBuffer_m72F4A24EA25488F6D8FBC900C9D4F14B5F5C1831 (const RuntimeMethod* method) ;
@@ -19768,6 +19769,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComputeBuffer_SetName_m77A71D15338AF38C6
 	_il2cpp_icall_func = (ComputeBuffer_SetName_m77A71D15338AF38C632B35718E627E1381C36D66_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.ComputeBuffer::SetName(System.String)");
 	_il2cpp_icall_func(__this, ___0_name);
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComputeBuffer_CopyCount_mBD7F2AA4C73E84EE51F5A946ECC05B213FB1E385 (ComputeBuffer_t51EADA9015EBCC1B982C5584E9AB2734415A8233* ___0_src, ComputeBuffer_t51EADA9015EBCC1B982C5584E9AB2734415A8233* ___1_dst, int32_t ___2_dstOffsetBytes, const RuntimeMethod* method) 
+{
+	typedef void (*ComputeBuffer_CopyCount_mBD7F2AA4C73E84EE51F5A946ECC05B213FB1E385_ftn) (ComputeBuffer_t51EADA9015EBCC1B982C5584E9AB2734415A8233*, ComputeBuffer_t51EADA9015EBCC1B982C5584E9AB2734415A8233*, int32_t);
+	static ComputeBuffer_CopyCount_mBD7F2AA4C73E84EE51F5A946ECC05B213FB1E385_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (ComputeBuffer_CopyCount_mBD7F2AA4C73E84EE51F5A946ECC05B213FB1E385_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.ComputeBuffer::CopyCount(UnityEngine.ComputeBuffer,UnityEngine.ComputeBuffer,System.Int32)");
+	_il2cpp_icall_func(___0_src, ___1_dst, ___2_dstOffsetBytes);
+}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -20088,6 +20097,34 @@ IL_0009:
 		return L_1;
 	}
 }
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_get_supportsRenderTextures_mAA77A17E5351772E7FE0E5A295448BA64131F105 (const RuntimeMethod* method) 
+{
+	bool V_0 = false;
+	{
+		V_0 = (bool)1;
+		goto IL_0005;
+	}
+
+IL_0005:
+	{
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SystemInfo_get_supportsImageEffects_mA97A693C45A91780EE8E9F2802D6ED58841D52F0 (const RuntimeMethod* method) 
+{
+	bool V_0 = false;
+	{
+		V_0 = (bool)1;
+		goto IL_0005;
+	}
+
+IL_0005:
+	{
+		bool L_0 = V_0;
+		return L_0;
+	}
+}
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_get_copyTextureSupport_m35C5E2D749B53757DD6F05492B5D79F364F466C2 (const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -20158,6 +20195,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_get_supportedRenderTargetC
 	{
 		int32_t L_0;
 		L_0 = SystemInfo_SupportedRenderTargetCount_mEBF491036B3705A1C8745DF7C6A3AE1797086B0C(NULL);
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		int32_t L_1 = V_0;
+		return L_1;
+	}
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_get_supportedRandomWriteTargetCount_m4D9269C2FCBAF4718F7C285CB567CFEB820E29D5 (const RuntimeMethod* method) 
+{
+	int32_t V_0 = 0;
+	{
+		int32_t L_0;
+		L_0 = SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D(NULL);
 		V_0 = L_0;
 		goto IL_0009;
 	}
@@ -20682,6 +20735,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_SupportedRenderTargetCount
 	static SystemInfo_SupportedRenderTargetCount_mEBF491036B3705A1C8745DF7C6A3AE1797086B0C_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (SystemInfo_SupportedRenderTargetCount_mEBF491036B3705A1C8745DF7C6A3AE1797086B0C_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SystemInfo::SupportedRenderTargetCount()");
+	int32_t icallRetVal = _il2cpp_icall_func();
+	return icallRetVal;
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D (const RuntimeMethod* method) 
+{
+	typedef int32_t (*SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D_ftn) ();
+	static SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (SystemInfo_SupportedRandomWriteTargetCount_m6A989994771F75C29D1A68E4F3DF9B689F009D8D_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SystemInfo::SupportedRandomWriteTargetCount()");
 	int32_t icallRetVal = _il2cpp_icall_func();
 	return icallRetVal;
 }

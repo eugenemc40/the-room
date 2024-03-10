@@ -21,9 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/RolePlay Choose.unity
     guid: 0424c58918db2524e804d9b5a347c642
   - enabled: 1
-    path: Assets/Scenes/Supermarket.unity
-    guid: 83bf1dd1e7b25a5468a0f32e09da1211
-  - enabled: 1
     path: Assets/Scenes/Kitchen Level 1.unity
     guid: 02655bf5af7355d488204f4308d9102f
   - enabled: 1
@@ -35,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Kitchen Level 4.unity
     guid: fe056fd4ea14db64dbbe620fee85dc7d
+  - enabled: 1
+    path: Assets/Scenes/Shop Level1.unity
+    guid: de24f8e4da1380748b1fa675a1e30684
+  - enabled: 1
+    path: Assets/Scenes/Supermarket.unity
+    guid: 83bf1dd1e7b25a5468a0f32e09da1211
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
