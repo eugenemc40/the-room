@@ -21438,6 +21438,7 @@ struct ShockMatch_tB844F2E1D1E83B89AA0FABC7C71E3980A1142C31  : public MonoBehavi
 struct ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___update1;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___update2;
 	int32_t ___level;
 };
 struct ShopNextLevel2_tDC05B3F2FEE51FF1B8AF083EAC30F06CF88ADC9E  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
@@ -22909,6 +22910,10 @@ struct totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3  : public MonoBehavi
 {
 	List_1_tB3629157EDF1A906318E4ACCCD01C0706A312061* ___itemsInTrolley;
 	TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___totalAmountText;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___setActive2;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___update1;
+	float ___maxAmount;
+	float ___totalAmount;
 };
 struct PassData_tFB4F4716E1B2E7E0114D20117C36B283FD446E29  : public RuntimeObject
 {
@@ -30349,9 +30354,9 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4327[3] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4328[3] = 
 {
 	static_cast<int32_t>(offsetof(RequiredItems_t283D60607295FCC9EBDCCD7BB47E2AC95F15435B, ___setActive1)),static_cast<int32_t>(offsetof(RequiredItems_t283D60607295FCC9EBDCCD7BB47E2AC95F15435B, ___sound)),static_cast<int32_t>(offsetof(RequiredItems_t283D60607295FCC9EBDCCD7BB47E2AC95F15435B, ___playerAudio)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4329[2] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4329[3] = 
 {
-	static_cast<int32_t>(offsetof(ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18, ___update1)),static_cast<int32_t>(offsetof(ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18, ___level)),};
+	static_cast<int32_t>(offsetof(ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18, ___update1)),static_cast<int32_t>(offsetof(ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18, ___update2)),static_cast<int32_t>(offsetof(ShopNextLevel_t5F0C732B278E066F48DB731588B04C720EB7CC18, ___level)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4330[5] = 
 {
 	static_cast<int32_t>(offsetof(RequiredItemsLevel2_t23D54C1D8FCE2603FE8F6531664C586912370C27, ___setActive1)),static_cast<int32_t>(offsetof(RequiredItemsLevel2_t23D54C1D8FCE2603FE8F6531664C586912370C27, ___setActive2)),static_cast<int32_t>(offsetof(RequiredItemsLevel2_t23D54C1D8FCE2603FE8F6531664C586912370C27, ___sound)),static_cast<int32_t>(offsetof(RequiredItemsLevel2_t23D54C1D8FCE2603FE8F6531664C586912370C27, ___playerAudio)),static_cast<int32_t>(offsetof(RequiredItemsLevel2_t23D54C1D8FCE2603FE8F6531664C586912370C27, ___itemprice1)),};
@@ -30367,9 +30372,9 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4333[2] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4334[2] = 
 {
 	static_cast<int32_t>(offsetof(StopMoving_t0DE9A3FEC009BE715BF15227833F51A3D093AF30, ___grabbedObject)),static_cast<int32_t>(offsetof(StopMoving_t0DE9A3FEC009BE715BF15227833F51A3D093AF30, ___previousParent)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4335[2] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4335[6] = 
 {
-	static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___itemsInTrolley)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___totalAmountText)),};
+	static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___itemsInTrolley)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___totalAmountText)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___setActive2)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___update1)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___maxAmount)),static_cast<int32_t>(offsetof(totalPrice_t5416C9BDC3C017462A7E69D4471DDE39E10ADBF3, ___totalAmount)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4336[1] = 
 {
 	static_cast<int32_t>(offsetof(Trolly_tFA8C78A146442C0DA243918AD318E09B2F61FA7D, ___grabInteractable)),};
