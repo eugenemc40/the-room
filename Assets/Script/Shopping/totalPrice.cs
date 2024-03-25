@@ -2,10 +2,15 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class VRShoppingTrolley : MonoBehaviour
+public class totalPrice : MonoBehaviour
 {
     private List<Price> itemsInTrolley = new List<Price>();
     public TMP_Text totalAmountText;
+    public GameObject setActive2;
+    public GameObject update1;
+    float maxAmount = 20;
+
+    float totalAmount;
 
     private void Start()
     {
@@ -19,6 +24,10 @@ public class VRShoppingTrolley : MonoBehaviour
         {
             itemsInTrolley.Add(item);
             UpdateTotalAmountText();
+            if (totalAmount < maxAmount && update1.activeSelf)
+            {
+                setActive2.SetActive(true);
+            }
         }
     }
 
@@ -29,6 +38,7 @@ public class VRShoppingTrolley : MonoBehaviour
         {
             itemsInTrolley.Remove(item);
             UpdateTotalAmountText();
+
         }
     }
 
@@ -38,7 +48,7 @@ public class VRShoppingTrolley : MonoBehaviour
         totalAmountText.text = "£" + totalAmount.ToString("F2");
     }
 
-    private float CalculateTotalAmount()
+    public float CalculateTotalAmount()
     {
         float totalAmount = 0f;
         foreach (Price item in itemsInTrolley)

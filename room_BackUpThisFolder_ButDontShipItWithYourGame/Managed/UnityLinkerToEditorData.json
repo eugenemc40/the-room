@@ -17,8 +17,8 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -26,6 +26,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -35,8 +36,8 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -44,6 +45,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -53,8 +55,8 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -62,6 +64,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -77,8 +80,8 @@
           {
             "name": "Avatar",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -86,6 +89,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -112,8 +116,8 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -121,6 +125,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -130,8 +135,8 @@
           {
             "name": "AudioClip",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -139,6 +144,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -148,8 +154,8 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -157,6 +163,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -172,8 +179,8 @@
           {
             "name": "AudioSource",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -181,6 +188,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -190,8 +198,8 @@
           {
             "name": "SampleClip",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -199,6 +207,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -243,8 +252,8 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -252,6 +261,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -273,8 +283,8 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -282,6 +292,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -303,8 +314,8 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -312,6 +323,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -341,8 +353,8 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -350,6 +362,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -386,8 +399,8 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -395,6 +408,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -404,8 +418,8 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -413,6 +427,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -434,8 +449,8 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -443,6 +458,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -452,8 +468,8 @@
           {
             "name": "LineRenderer",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -461,6 +477,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -476,8 +493,8 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -485,6 +502,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -494,8 +512,8 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -503,6 +521,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -512,8 +531,8 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -521,6 +540,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -530,8 +550,8 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -539,6 +559,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -548,8 +569,8 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -557,6 +578,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -572,8 +594,8 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -581,6 +603,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -590,8 +613,8 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -599,6 +622,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -632,8 +656,8 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -641,6 +665,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -656,8 +681,8 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -665,6 +690,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -698,8 +724,8 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -707,6 +733,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -722,8 +749,8 @@
           {
             "name": "SkinnedMeshRenderer",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -731,6 +758,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -752,8 +780,8 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -761,6 +789,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1124,8 +1153,8 @@
           {
             "name": "BoxCollider",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1133,6 +1162,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1142,8 +1172,8 @@
           {
             "name": "CapsuleCollider",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1151,6 +1181,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1160,8 +1191,8 @@
           {
             "name": "CharacterController",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1169,6 +1200,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1184,8 +1216,8 @@
           {
             "name": "ConfigurableJoint",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1193,6 +1225,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1202,8 +1235,8 @@
           {
             "name": "FixedJoint",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1211,6 +1244,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1232,8 +1266,8 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1241,6 +1275,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1250,8 +1285,8 @@
           {
             "name": "PhysicMaterial",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1259,6 +1294,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1274,8 +1310,8 @@
           {
             "name": "Rigidbody",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1283,6 +1319,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1292,8 +1329,8 @@
           {
             "name": "SphereCollider",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1301,6 +1338,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1627,8 +1665,8 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1636,6 +1674,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1686,8 +1725,8 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1695,6 +1734,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],
@@ -1710,8 +1750,8 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Kitchen Lev 3.unity",
               "Assets/Scenes/Forest.unity",
+              "Assets/Scenes/Kitchen Lev 3.unity",
               "Assets/Scenes/Kitchen Lev2.unity",
               "Assets/Scenes/Kitchen Level 1.unity",
               "Assets/Scenes/Kitchen Level 4.unity",
@@ -1719,6 +1759,7 @@
               "Assets/Scenes/Planet.unity",
               "Assets/Scenes/RolePlay Choose.unity",
               "Assets/Scenes/room.unity",
+              "Assets/Scenes/Shop Level 2.unity",
               "Assets/Scenes/Shop Level1.unity",
               "Assets/Scenes/Supermarket.unity"
             ],

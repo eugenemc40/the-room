@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelUp : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class LevelUp : MonoBehaviour
     public GameObject update11;
     public GameObject toActivate;
     public GameObject toDeactivate;
+    public int level;
 
 
     // Start is called before the first frame update
@@ -39,8 +41,20 @@ public class LevelUp : MonoBehaviour
             toActivate.SetActive(true);
             toDeactivate.SetActive(false);
 
+            int count = 5;
+            while (count > 0)
+            {
+                count--;
+                if (count == 0)
+                {
+                    levelChange(level);
+                }
+            }
         }
     }
 
-
+    public void levelChange(int level)
+    {
+        SceneManager.LoadScene(level);
+    }
 }

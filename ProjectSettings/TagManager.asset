@@ -28,6 +28,28 @@ TagManager:
   - OliveOil
   - OrangeJuice
   - Soup
+  - Yogurt
+  - Banana
+  - Cheese
+  - Pumpkin
+  - Toast
+  - Kiwi
+  - Donut
+  - Broccoli
+  - Carrot
+  - Steak
+  - Fish
+  - Pepper
+  - Cupcake
+  - Lomonade
+  - Chips
+  - Watermelon
+  - Pear
+  - Hot Dog
+  - Ham Burger
+  - Cake
+  - Trolly
+  - Lemonade
   layers:
   - Default
   - TransparentFX
