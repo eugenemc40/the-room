@@ -14,10 +14,7 @@ public class Trolly : MonoBehaviour
             grabInteractable.onSelectEntered.AddListener(OnGrab);
             grabInteractable.onSelectExited.AddListener(OnRelease);
         }
-        else
-        {
-            Debug.LogError("XRGrabInteractable component not found.");
-        }
+
     }
 
     private void OnGrab(XRBaseInteractor interactor)
