@@ -39,8 +39,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Shop Level 2.unity
     guid: b96da4ffdcb90c04caf7ae61734cdd5c
   - enabled: 1
-    path: Assets/Scenes/Supermarket.unity
-    guid: 83bf1dd1e7b25a5468a0f32e09da1211
+    path: Assets/Scenes/Shop Level 3.unity
+    guid: 2fccd0a63c394d442beb176cc7bf9a49
   - enabled: 1
     path: Assets/Scenes/WallGame1.unity
     guid: f9c5fd199946f134e9b820d4d3c39ab5

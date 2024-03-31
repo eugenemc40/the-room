@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class TotalLevel2 : MonoBehaviour
+public class TotalLevel3 : MonoBehaviour
 {
     private List<Price> itemsInTrolley = new List<Price>();
     public TMP_Text totalAmountText;
@@ -15,7 +15,7 @@ public class TotalLevel2 : MonoBehaviour
     public GameObject update4;
 
     float totalAmount;
-    float maxAmount = 30;
+    float maxAmount = 11;
 
     private void Start()
     {

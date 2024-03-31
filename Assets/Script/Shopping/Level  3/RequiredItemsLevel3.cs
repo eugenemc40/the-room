@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RequiredItemsLevel2 : MonoBehaviour
+public class RequiredItemsLevel3 : MonoBehaviour
 {
     public GameObject setActive1;
     public GameObject setActive2;
@@ -18,7 +18,7 @@ public class RequiredItemsLevel2 : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Apple"))
+        if (other.gameObject.CompareTag("Bread"))
         {
             setActive1.SetActive(true);
             playSound();
@@ -28,12 +28,12 @@ public class RequiredItemsLevel2 : MonoBehaviour
             setActive2.SetActive(true);
             playSound();
         }
-        if (other.gameObject.CompareTag("Banana"))
+        if (other.gameObject.CompareTag("Cheese"))
         {
             setActive3.SetActive(true);
             playSound();
         }
-        if (other.gameObject.CompareTag("Pepper"))
+        if (other.gameObject.CompareTag("Watermellon"))
         {
             setActive4.SetActive(true);
             playSound();
@@ -49,6 +49,4 @@ public class RequiredItemsLevel2 : MonoBehaviour
             playerAudio.PlayOneShot(sound, 1.0f);
         }
     }
-
-
 }

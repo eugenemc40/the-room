@@ -6,6 +6,8 @@ public class ShopNextLevel2 : MonoBehaviour
     public GameObject update1;
     public GameObject update2;
     public GameObject update3;
+    public GameObject update4;
+    public GameObject update5;
     public int level;
 
 
@@ -13,7 +15,7 @@ public class ShopNextLevel2 : MonoBehaviour
     {
 
 
-        if (other.CompareTag("Trolly") && update1.activeSelf && update2.activeSelf && update3.activeSelf)
+        if (other.CompareTag("Trolly") && update1.activeSelf && update2.activeSelf && update3.activeSelf && update4.activeSelf && update5.activeSelf)
         {
             levelChange(level);
         }
