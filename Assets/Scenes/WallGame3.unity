@@ -6127,7 +6127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sound: {fileID: 8300000, guid: 66c428d42a6ffb4428eed91c67bc571b, type: 3}
-  meshRenderer: {fileID: 0}
+  meshRenderer: {fileID: 1970491796}
   activate: {fileID: 2027817011}
 --- !u!1 &2027817011
 GameObject:
@@ -30487,7 +30487,7 @@ Transform:
   m_GameObject: {fileID: 2181692780090255203}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.9998363, z: -0, w: 0.018094696}
-  m_LocalPosition: {x: 0.32, y: 1.06, z: 3.96}
+  m_LocalPosition: {x: 1.206, y: 1.06, z: 4.644}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

@@ -9383,10 +9383,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   update1: {fileID: 1745125154}
-  update2: {fileID: 254892294}
-  update3: {fileID: 338345724}
-  update4: {fileID: 0}
-  update5: {fileID: 0}
+  update2: {fileID: 1757186406}
+  update3: {fileID: 2113837324}
+  update4: {fileID: 254892294}
+  update5: {fileID: 338345724}
   level: 11
 --- !u!1 &839240603
 GameObject:
@@ -13903,9 +13903,9 @@ MonoBehaviour:
   sound: {fileID: 8300000, guid: 4733e6b1f48e6194ea66a31e0c407bf7, type: 3}
   setActive3: {fileID: 338345724}
   update1: {fileID: 1745125154}
-  update2: {fileID: 254892294}
-  update3: {fileID: 1757186406}
-  update4: {fileID: 2113837324}
+  update2: {fileID: 1757186406}
+  update3: {fileID: 2113837324}
+  update4: {fileID: 254892294}
 --- !u!114 &1272868501
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13920,8 +13920,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   setActive1: {fileID: 1745125154}
   setActive2: {fileID: 254892294}
-  setActive3: {fileID: 2113837324}
-  setActive4: {fileID: 254892294}
+  setActive3: {fileID: 1757186406}
+  setActive4: {fileID: 2113837324}
   sound: {fileID: 8300000, guid: d3fb0a3d3cc71f34b870dabd4ff994ad, type: 3}
 --- !u!65 &1272868502
 BoxCollider:
