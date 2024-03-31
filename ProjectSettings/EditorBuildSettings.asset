@@ -47,6 +47,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WallGame2.unity
     guid: 84b15f25a06aaca4fbc2c07649fd3642
+  - enabled: 1
+    path: Assets/Scenes/WallGame3.unity
+    guid: 6ce0f9a6b52932d41a87a7cb88188792
+  - enabled: 1
+    path: Assets/Scenes/WallGame4.unity
+    guid: 7cd0b97b445896a4a9f17a73da0e7f02
+  - enabled: 1
+    path: Assets/Scenes/WallGame5.unity
+    guid: 19539eb6a6ab9de48bf83dab867a7dbd
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
