@@ -3655,6 +3655,7 @@ struct wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB  : public MonoBe
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get3;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get4;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get5;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get6;
 	int32_t ___level;
 };
 struct wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
@@ -19096,7 +19097,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void wallGameLevel4_Update_m45E53D9292EE6D92D
 		L_1 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_0, NULL);
 		if (!L_1)
 		{
-			goto IL_004d;
+			goto IL_005a;
 		}
 	}
 	{
@@ -19106,7 +19107,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void wallGameLevel4_Update_m45E53D9292EE6D92D
 		L_3 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_2, NULL);
 		if (!L_3)
 		{
-			goto IL_004d;
+			goto IL_005a;
 		}
 	}
 	{
@@ -19116,7 +19117,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void wallGameLevel4_Update_m45E53D9292EE6D92D
 		L_5 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_4, NULL);
 		if (!L_5)
 		{
-			goto IL_004d;
+			goto IL_005a;
 		}
 	}
 	{
@@ -19126,7 +19127,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void wallGameLevel4_Update_m45E53D9292EE6D92D
 		L_7 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_6, NULL);
 		if (!L_7)
 		{
-			goto IL_004d;
+			goto IL_005a;
 		}
 	}
 	{
@@ -19136,15 +19137,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void wallGameLevel4_Update_m45E53D9292EE6D92D
 		L_9 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_8, NULL);
 		if (!L_9)
 		{
-			goto IL_004d;
+			goto IL_005a;
 		}
 	}
 	{
-		int32_t L_10 = __this->___level;
-		wallGameLevel4_levelChange_m959C48EF197FC571DEBD9FFC128DD08F7165EE5A(__this, L_10, NULL);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = __this->___get6;
+		NullCheck(L_10);
+		bool L_11;
+		L_11 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_10, NULL);
+		if (!L_11)
+		{
+			goto IL_005a;
+		}
+	}
+	{
+		int32_t L_12 = __this->___level;
+		wallGameLevel4_levelChange_m959C48EF197FC571DEBD9FFC128DD08F7165EE5A(__this, L_12, NULL);
 	}
 
-IL_004d:
+IL_005a:
 	{
 		return;
 	}

@@ -8,6 +8,7 @@ public class wallGameLevel4 : MonoBehaviour
     public GameObject get3;
     public GameObject get4;
     public GameObject get5;
+    public GameObject get6;
 
     public int level;
     // Start is called before the first frame update
@@ -19,7 +20,7 @@ public class wallGameLevel4 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (get1.activeSelf && get2.activeSelf && get3.activeSelf && get4.activeSelf && get5.activeSelf)
+        if (get1.activeSelf && get2.activeSelf && get3.activeSelf && get4.activeSelf && get5.activeSelf && get6.activeSelf)
         {
             levelChange(level);
         }

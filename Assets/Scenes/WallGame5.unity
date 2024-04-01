@@ -1750,7 +1750,6 @@ GameObject:
   - component: {fileID: 413258170}
   - component: {fileID: 413258169}
   - component: {fileID: 413258168}
-  - component: {fileID: 413258172}
   - component: {fileID: 413258173}
   m_Layer: 0
   m_Name: Plan
@@ -1845,21 +1844,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &413258172
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 413258167}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd0c0fe59c5905345a6d20e81336c140, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  get1: {fileID: 1233875717}
-  get2: {fileID: 684176794}
-  level: 13
 --- !u!114 &413258173
 MonoBehaviour:
   m_ObjectHideFlags: 0

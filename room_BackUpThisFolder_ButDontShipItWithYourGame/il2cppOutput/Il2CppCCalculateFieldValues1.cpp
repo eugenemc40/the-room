@@ -22942,6 +22942,7 @@ struct wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB  : public MonoBe
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get3;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get4;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get5;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___get6;
 	int32_t ___level;
 };
 struct wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
@@ -30435,9 +30436,9 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4344[5] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4345[6] = 
 {
 	static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___get1)),static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___get2)),static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___get3)),static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___get4)),static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___get5)),static_cast<int32_t>(offsetof(wallGameLevel3Up_t7CA8C340974E38CF7E1CF70065046400863E39E5, ___level)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4346[6] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4346[7] = 
 {
-	static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get1)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get2)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get3)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get4)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get5)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___level)),};
+	static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get1)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get2)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get3)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get4)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get5)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___get6)),static_cast<int32_t>(offsetof(wallGameLevel4_tF23B970F2D3F5D9F4C30D50B00AE7FD43E24E8AB, ___level)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable4347[12] = 
 {
 	static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get1)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get2)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get3)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get4)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get5)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get6)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get7)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get8)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get9)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___get10)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___setAcive)),static_cast<int32_t>(offsetof(wallGameLevel5Win_t9ED25A268BF9EFA9AA1DA9EDBCC4B2F3205CF18E, ___deactivate)),};
