@@ -6,8 +6,7 @@ public class TotalLevel3 : MonoBehaviour
 {
     private List<Price> itemsInTrolley = new List<Price>();
     public TMP_Text totalAmountText;
-    public AudioClip sound;
-    private AudioSource playerAudio;
+
     public GameObject setActive3;
     public GameObject update1;
     public GameObject update2;
@@ -20,7 +19,7 @@ public class TotalLevel3 : MonoBehaviour
     private void Start()
     {
         UpdateTotalAmountText();
-        playerAudio = GetComponent<AudioSource>();
+
     }
 
     private void OnTriggerEnter(Collider other)
@@ -66,11 +65,5 @@ public class TotalLevel3 : MonoBehaviour
         return totalAmount;
     }
 
-    private void playSound()
-    {
-        if (sound != null && playerAudio != null)
-        {
-            playerAudio.PlayOneShot(sound, 1.0f);
-        }
-    }
+
 }

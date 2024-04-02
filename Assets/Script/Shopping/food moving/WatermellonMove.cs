@@ -17,7 +17,7 @@ public class WatermellonMove : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (grabbedObject == null && other.CompareTag("Watermellon"))
+        if (grabbedObject == null && other.CompareTag("Watermelon"))
         {
             // Pick up the object
             grabbedObject = other.gameObject;
