@@ -41,11 +41,5 @@ public class RequiredItemsLevel3 : MonoBehaviour
     }
 
 
-    private void playSound()
-    {
-        if (sound != null && playerAudio != null)
-        {
-            playerAudio.PlayOneShot(sound, 1.0f);
-        }
-    }
+
 }

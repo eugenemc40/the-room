@@ -32,7 +32,7 @@ public class TotalLevel3 : MonoBehaviour
             if (totalAmount < maxAmount && update1.activeSelf && update2.activeSelf && update3.activeSelf && update4.activeSelf)
             {
                 setActive3.SetActive(true);
-                playSound();
+
 
             }
         }
