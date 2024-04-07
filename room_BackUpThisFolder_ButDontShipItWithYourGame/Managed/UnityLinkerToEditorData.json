@@ -1276,7 +1276,8 @@
             "name": "ParticleSystem",
             "scenes": [
               "Assets/Scenes/Forest.unity",
-              "Assets/Scenes/Planet.unity"
+              "Assets/Scenes/Planet.unity",
+              "Assets/Scenes/room.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1285,7 +1286,8 @@
             "name": "ParticleSystemRenderer",
             "scenes": [
               "Assets/Scenes/Forest.unity",
-              "Assets/Scenes/Planet.unity"
+              "Assets/Scenes/Planet.unity",
+              "Assets/Scenes/room.unity"
             ],
             "dependencyType": 0,
             "icon": null
