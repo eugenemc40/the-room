@@ -988,6 +988,10 @@ struct SimplePolyFunc_tF4FA77085077115E592366A5E0BFA829CF7F1E54
 	float ___signY;
 	float ___logA;
 };
+struct BlendMode_t99B85970C99C1239C75D7FB1C8AEC1FF590E96E0 
+{
+	int32_t ___value__;
+};
 struct Bounds_t367E830C64BBF235ED8C3B2F8CF6254FDCAD39C3 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Center;
@@ -16761,6 +16765,14 @@ IL2CPP_EXTERN_C  void SimplePolyFunc_Initialize_mACBF9AC216A9A0972B3FCA21A891DDF
 	_thisAdjusted = reinterpret_cast<SimplePolyFunc_tF4FA77085077115E592366A5E0BFA829CF7F1E54*>(__this + _offset);
 	SimplePolyFunc_Initialize_mACBF9AC216A9A0972B3FCA21A891DDFC4370B53F(_thisAdjusted, ___0_x_end, ___1_y_end, ___2_m, method);
 }
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
