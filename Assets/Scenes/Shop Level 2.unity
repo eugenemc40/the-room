@@ -9387,7 +9387,7 @@ MonoBehaviour:
   update3: {fileID: 2113837324}
   update4: {fileID: 254892294}
   update5: {fileID: 338345724}
-  level: 11
+  level: 10
 --- !u!1 &839240603
 GameObject:
   m_ObjectHideFlags: 0
@@ -13900,7 +13900,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalAmountText: {fileID: 3998379540752385146}
-  sound: {fileID: 8300000, guid: 4733e6b1f48e6194ea66a31e0c407bf7, type: 3}
   setActive3: {fileID: 338345724}
   update1: {fileID: 1745125154}
   update2: {fileID: 1757186406}
